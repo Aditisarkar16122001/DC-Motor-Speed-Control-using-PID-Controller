@@ -57,8 +57,9 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
    -0.7942, 
 - Stability Analysis  
 - Gain & Phase Margins  
-- Step Response Metrics 
-![Performance metrices](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Performance%20Parameters%20(with%20PID).png)
+- Step Response Metrics
+  
+  ![Performance metrices](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Performance%20Parameters%20(with%20PID).png)
 ---
 
 ##  Simulink Model
