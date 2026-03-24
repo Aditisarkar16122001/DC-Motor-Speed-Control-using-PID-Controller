@@ -52,10 +52,12 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 ###  Without PID
 - Step Input → DC Motor → Feedback Loop  
 - Basic closed-loop system without controller  
+![Simulink without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Without%20PID.png)
 
 ###  With PID Controller
 - Step Input → PID Controller → DC Motor → Feedback  
 - PID improves system response significantly  
+![Simulink with PID]()
 
 ###  PID Parameters Used
 - Proportional Gain (P): 200  
