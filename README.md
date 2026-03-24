@@ -50,7 +50,11 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 - Step Response Comparison
   ![comparison](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20vs%20with%20PID%20(2).png)
 - Closed Loop Pole - Zero map with PID
-  ![pz map](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Closed%20Loop%20Pole%20Zero%20(with%20PID).png) 
+  ![pz map](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Closed%20Loop%20Pole%20Zero%20(with%20PID).png)
+  Closed Loop Poles:
+  -33.5819, 
+   -5.6239, 
+   -0.7942, 
 - Stability Analysis  
 - Gain & Phase Margins  
 - Step Response Metrics 
