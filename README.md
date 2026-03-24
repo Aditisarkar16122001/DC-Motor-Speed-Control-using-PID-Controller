@@ -69,11 +69,13 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 ##  Results & Observations
 
 ###  Without PID:
+![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Response%20Without%20PID.png)
 - Slower response  
 - Larger steady-state error  
 - Less control over dynamics  
 
 ###  With PID:
+![With PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Response%20With%20PID.png)
 - Faster rise time  
 - Reduced steady-state error  
 - Improved stability  
