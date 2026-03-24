@@ -33,7 +33,7 @@ $G(s) = \frac{ 1 }{s² + 10s + 20}$
 - Root Locus
  ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Root%20Locus%20plot%20(without%20PID).png)
 - Bode Plot
-   ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
+   ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Bode%20Plot(without%20PID).png)
 
 ###  PID Controller Parameters
 Kp = 200  
