@@ -48,7 +48,7 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 
 ###  Performance Evaluation
 - Step Response Comparison
-  ![comparison](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20vs%20with%20PID.png)
+  ![comparison](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20vs%20with%20PID%20(2).png)
 - Stability Analysis  
 - Gain & Phase Margins  
 - Step Response Metrics 
