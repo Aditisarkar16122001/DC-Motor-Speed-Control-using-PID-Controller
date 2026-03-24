@@ -55,7 +55,8 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
   -33.5819, 
    -5.6239, 
    -0.7942, 
-- Stability Analysis  
+- Stability Analysis
+  Improved Stability
 - Gain & Phase Margins  
 - Step Response Metrics
   
@@ -98,14 +99,7 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 
 ---
 
-##  Key Plots Generated
-- Step Response (Open Loop vs Closed Loop)  
-- Pole-Zero Map  
-- Root Locus  
-- Bode Plot  
-- Gain & Phase Margins  
 
----
 
 ##  Tools Used
 - MATLAB  
