@@ -63,7 +63,7 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 - Proportional Gain (P): 200  
 - Integral Gain (I): 150  
 - Derivative Gain (D): 30  
-![PID Parameters]()
+![PID Parameters](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/KP%2CKI%2CKD%20Values.png)
 ---
 
 ##  Results & Observations
