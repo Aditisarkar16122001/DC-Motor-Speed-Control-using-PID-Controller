@@ -23,10 +23,14 @@ $G(s) = \frac{ 1 }{s² + 10s + 20}$
 ##  MATLAB Implementation
 
 ###  Open Loop Analysis (Without PID)
-- Step Response  
-- Pole-Zero Map  
-- Root Locus  
-- Bode Plot  
+- Step Response
+  ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
+- Pole-Zero Map
+  ![OL Pole Zero (without PID)](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png) 
+- Root Locus
+ ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
+- Bode Plot
+   ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
 
 ###  PID Controller Parameters
 Kp = 200  
