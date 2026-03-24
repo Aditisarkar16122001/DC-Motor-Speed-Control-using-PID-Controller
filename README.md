@@ -26,7 +26,10 @@ $G(s) = \frac{ 1 }{s² + 10s + 20}$
 - Step Response
   ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
 - Pole-Zero Map
-  ![OL Pole Zero (without PID)](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Open%20Loop%20Pole%20Zero(without%20PID).png) 
+  ![OL Pole Zero (without PID)](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/Open%20Loop%20Pole%20Zero(without%20PID).png)
+  Open Loop Poles:
+   -7.2361 ,
+   -2.7639
 - Root Locus
  ![without PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/without%20PID%20MATLAB.png)
 - Bode Plot
