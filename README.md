@@ -96,6 +96,3 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 ---
 
   
-2. Run the script:
-   ```matlab
-   run('your_script_name.m')
