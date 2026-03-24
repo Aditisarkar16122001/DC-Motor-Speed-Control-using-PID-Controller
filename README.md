@@ -57,13 +57,13 @@ $T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)}$
 ###  With PID Controller
 - Step Input → PID Controller → DC Motor → Feedback  
 - PID improves system response significantly  
-![Simulink with PID]()
+![Simulink with PID](https://github.com/Aditisarkar16122001/DC-Motor-Speed-Control-using-PID-Controller/blob/main/With%20PID.png)
 
 ###  PID Parameters Used
 - Proportional Gain (P): 200  
 - Integral Gain (I): 150  
 - Derivative Gain (D): 30  
-
+![PID Parameters]()
 ---
 
 ##  Results & Observations
